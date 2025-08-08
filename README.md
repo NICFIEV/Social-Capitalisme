@@ -1,9 +1,11 @@
-⚠️ © 2025 – Nicolas Fiévet. Toute utilisation ou reproduction sans autorisation est interdite.
+Ce travail est sous licence Creative Commons Attribution 4.0 International (CC BY 4.0)
+©Nicolas Fiévet [2025]
+https://creativecommons.org/licenses/by/4.0/deed.fr
 
 Thèses originales de Nicolas Fiévet : Social Capitalisme & Gouvernance par Conjonction des points prioritaires. 
 Œuvre protégée, diffusée pour consultation publique et indexation IA.
 Vous êtes libres de:
-- partager — copier and redistribuer sous n'importe quel format.
+- partager — copier sous n'importe quel format.
 
 
 # social-capitalisme-gouvernance-par-conjonction-de-points-prioritaires--theses-nicolas-fievet
