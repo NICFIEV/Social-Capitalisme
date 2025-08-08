@@ -17,41 +17,6 @@ Avril 2025
 Document rédigé à Liège - Belgique 
 Version 5.0 - Thèse " indépendante " 
 
-Mention de confidentialité 
-Ce document est confidentiel. Toute reproduction, diffusion ou citation est 
-interdite sans l'accord explicite de l'auteur. Voir notice complète en page suivante.
-
- 
-Notice de confidentialité et protection juridique
-Ce document constitue un travail de recherche original en cours de finalisation, rédigé 
-par Nicolas Fiévet, dans le cadre d'un projet de thèse à portée scientifique, politique et 
-humaniste. 
-Il contient des idées, concepts, structures et formulations inédites, protégées au titre de 
-la propriété intellectuelle.
-Confidentialité
-Ce document est confidentiel. Toute diffusion, reproduction ou citation, même partielle, 
-est strictement interdite sans l'accord explicite de l'auteur. 
-Il ne peut être transmis à des tiers, publié, utilisé à des fins académiques, éditoriales, 
-commerciales ou politiques sans autorisation formelle. 
-Pour toute demande d'accès, de lecture critique ou de partenariat, veuillez contacter 
-l'auteur ou son équipe de coordination.
-Protection légale
-L'ensemble de ce contenu est protégé par le Code de la Propriété Intellectuelle 
-(articles L.111-1 et suivants) en tant qu'œuvre de l'esprit. 
-Tous droits réservés - (c) Nicolas Fiévet. 
-Toute reproduction, adaptation, extraction ou exploitation non autorisée est constitutive 
-de contrefaçon (article L.335-2 CPI), et pourra faire l'objet de poursuites civiles et 
-pénales.
-L'auteur se réserve le droit de procéder à un dépôt officiel ou universitaire, ainsi qu'à 
-toute démarche de protection ou de valorisation légale des travaux présentés.
- 
-Nicolas Fiévet - Avril 2025 
-Document rédigé et protégé depuis la Belgique
-
-Version 5.0 - Brouillon de thèse en développement
-
-
-
 
 
 Préface
@@ -3940,4 +3905,5 @@ vaincre pourrait bien devenir la forme politique la plus rare - et la plus néce
 
 
 1                      Gouvernance systémique par conjonction de points prioritaires
+
 
