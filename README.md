@@ -40,9 +40,9 @@ Face à la financiarisation extrême de l'économie et à la volatilité croissa
 Son ambition est de reconnecter la création monétaire et la circulation du capital à l'économie réelle, à travers un mécanisme contributif, non spéculatif, fondé sur l'utilité sociale mesurable.
 Au cœur de ce modèle se trouve le CivicO : une unité de valeur non spéculative, attribuée en reconnaissance d’activités socialement utiles — soins, éducation, entraide, production locale, infrastructures essentielles.
 Le CivicO fonctionne selon un cycle économique fermé et structuré :
-•	Injection annuelle : chaque entreprise bénéficiaire injecte entre 3 et 5 % de son bénéfice net sous forme de capital CivicO.
+•	Injection annuelle : chaque entreprise bénéficiaire injecte entre 3 et 5 % de son bénéfice brut avant l'impôt sur la société sous forme de capital CivicO.
 •	Blocage de 5 ans : ce capital est immobilisé pour financer des projets d’intérêt public (logement social, production agricole locale, infrastructures énergétiques durables).
-•	Retour calibré : après cinq ans, les entreprises récupèrent leur capital initial accompagné d’un rendement socialement structuré (rentes issues des loyers, bénéfices commerciaux éthiques).
+•	Retour calibré : après cinq ans, les entreprises récupèrent leur capital initial avec dispense de l'impôt de l'IS.
 Ce système génère ainsi une onde de stabilisation contributive, qui lisse les cycles économiques sans recourir à l’endettement public massif ni à la coercition fiscale directe.
 
 2. Axes de rupture par rapport aux modèles existants
